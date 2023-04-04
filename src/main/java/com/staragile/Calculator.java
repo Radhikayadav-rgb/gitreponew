@@ -12,7 +12,7 @@ public class Calculator {
 		return a*b;
 	}
 	public int division(int a,int b) {
-		return a/b;
+		return 1;
 	}
 
 }
